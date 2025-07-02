@@ -1,0 +1,27 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Model dosyaları ve büyük veriler
+*.h5
+*.keras
+*.npy
+*.pt
+*.mp3
+
+# Veri klasörü (QuickDraw verileri vb.)
+data/
+
+# Sanal ortamlar
+env/
+venv/
+
+# Mac/Windows sistem dosyaları
+.DS_Store
+Thumbs.db
